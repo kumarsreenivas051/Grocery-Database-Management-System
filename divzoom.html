@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Zoom</title>
+<style>
+    #content
+    {
+        font-size: 10pt;
+        width:300px;
+        height:300px;
+        font-family: Arial,sans-serif;
+        border:2px darkgray solid;
+        margin:auto ;
+    }
+    #image
+    {
+        border-collapse:collapse;
+    }
+</style>
+
+
+</head>
+<body>
+<script>
+    function zoom(zo)
+    {
+
+        zo.style.width = "250px";
+        zo.style.height = "250px";
+        zo.style.border="2px red";
+
+    }
+    function zoomout(z)
+    {
+        z.style.width = "225px";
+        z.style.height = "225px";
+    }
+    $(document).ready(function(){
+        var oldSize = parseFloat($("#content").css('font-size'));
+        var newSize = oldSize*1.25;
+        $("#content").hover(
+            function() {
+                $("#content").animate({fontSize: newSize}, 200);
+            },
+            function () {
+                $("#content").animate({fontSize:oldSize},200);
+            }
+        );
+    });
+</script><center><div id="image">
+    <img onmouseover="zoom(this)" onmouseout="zoomout(this)"  src="cerelac.jpeg" width="224" height="225"></div>
+<br><br><br>
+    <div id="content">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br> Donec pharetra pharetra dignissim.<br> Aenean vestibulum elementum varius.<br> Suspendisse tempus, tortor eget adipiscing volutpat, justo lacus vestibulum sapien, nec porta libero tortor elementum augue.<br> Pellentesque sit amet est et tortor ultricies tempor.<br> Donec facilisis dui placerat diam hendrerit congue. Vivamus nec risus metus, eget fermentum ipsum.<br> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+    </div>
+</center>
+<br><br>
+</body>
+</html>

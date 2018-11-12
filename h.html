@@ -1,0 +1,48 @@
+
+
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="design1.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>
+        Welcome to e-Grocery store
+    </title>
+
+</head>
+<body>
+
+<div class="background">
+</div>
+<div class="foreground">
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">GroceryDotCom</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            </div>
+            <form class="navbar-form navbar-left" action="/action_page.php" method="post">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Username">
+                    <input type="text" class="form-control" placeholder="Password">
+                </div>
+                <button type="submit" style="background:lawngreen" class="btn btn-default">Submit</button>
+            </form>
+        </div>
+    </nav>
+    <div id="rectbox1" style="background:#474747">
+        <h1 ><font color="white">&nbsp;&nbsp;Don't have an account?Register here</font> </h1><br><br>
+        <form method="post" action="index.php">
+            <input class="form-control" type="text" name="userid" placeholder="Username" width="40px"><br><br>
+            <input class="form-control" type="password" name="pwd" placeholder="Password"><br><br>
+            <input class="form-control" type="password" name="cpwd" placeholder="Confirm Password"><br><br>
+            &emsp;&emsp;<button class="submit-btn" style="background:orange" type="submit" name="submit">register</button>
+        </form>
+    </div>
+    <?php
+?>
+</div>
+</body>
+
+</html>

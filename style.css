@@ -1,0 +1,31 @@
+.input_values
+{
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid crimson;
+    background: transparent;
+    width: 300px;
+}
+#rectbox
+{
+    position: absolute;
+    width:400px;
+    height:300px;
+    z-index:15 ;
+    top: 45%;
+    left: 45%;
+
+    margin:-100px 0 0 -150px ;
+    background: #ecf0f1 ;
+    border-color: black;
+}
+.submit-btn
+{
+
+    width: 100px;
+    height:40px;
+    background-color: #f9690e;
+    opacity: 0.9;
+    text-decoration-color: white ;
+
+}
