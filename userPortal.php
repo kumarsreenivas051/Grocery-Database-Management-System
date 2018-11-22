@@ -1,12 +1,7 @@
 <html>
 <head>
-    <meta http-equiv="cache-control" content="no-cache,no-store,must-revalidate">
-    <meta http-equiv="pragma" content="no-cache">
-    <meta http-equiv="expires" content="0">
-    <link rel="stylesheet" type="text/css" href="design1.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-
     <link rel="shortcut icon" href="download.png" type="image/png" sizes="16*16">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title>
         User portal
     </title>
@@ -14,34 +9,75 @@
 </head>
 
 <body>
-<div class="background">
-    <img src="cover.jpg">
-</div>
-<div class="foreground">
 
-
-                <form action="index.php" method="post">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-                    <input type="submit" name="ulogout" style="background:lawngreen ;" class="submit-btn">
-                </form>
-
-
-<?php
+<div id="container">
+    <div id="main">
+        <center><h1>Products in stock</h1></center>
+        <?php
 
 include('connection.php');
-
 $sql = "SELECT * FROM product;";
 $result = $con->query($sql);
-if ($result->num_rows > 0){
-    echo "<center>";
-echo "<table><tr><th>Product ID</th><th>Name</th><th>Quantity</th><th>Seller</th></tr>";
-
-while($row = mysqli_fetch_array($result)) {
-    echo "<tr><td>".$row["prodID"]."</td><td>".$row["prodName"] ."</td><td>".$row["prodQuant"]."</td><td>".$row["prodSeller"]."</td>";
-    echo "</tr>";
+if(isset($_GET['action']) && $_GET['action']=="add")
+{
+    $id = intval($_GET['id']);
+    if(isset($_SESSION['cart'][$id]))
+    {
+        $_SESSION['cart'][$id]['quantity']++;
+    }
+    else
+    {
+        $q = "select * from product where prodID='$id';";
+        $query = $con->query($q);
+        if(mysqli_num_rows($query)!=0)
+        {
+          $row_p = mysqli_fetch_array($query);
+          $_SESSION['cart'][$row_p['prodID']]=array(
+                  "quantity"=>1,"price"=>$row_p['amount']
+          );
+        }
+        else
+        {
+            $message = "This product id is invalid";
+        }
+    }
 }
+if ($result->num_rows > 0) {
+
+    ?>
+    <table><tr><th><center>Product ID</center></th><th><center> Name</center>  </th><!--<th><center>Quantity</center></th>--><th>Amount</th><th><center>Seller</center></th><th>Action</th></tr>
+    <?php
+    while($row = mysqli_fetch_array($result)) {
+        ?>
+        <tr>
+            <td><?php echo $row["prodID"];?></td>
+            <td><?php echo $row["prodName"];?></td>
+           <!-- <td><//?php echo $row["prodQuant"]; ?></td>-->
+            <td><?php echo $row["amount"]; ?></td>
+            <td><?php echo $row["prodSeller"]; ?></td>
+            <td><a href="home.php?page=userPortal&action=add&id=<?php echo $row['prodID'] ?>"><button name="addtocart" id="addtocart">Add to cart</button></a></td>
+        </tr>
+        <?php
+        if(isset($_POST['addtocart']))
+        {
+            echo "<script>document.getElementsByTagName('button').innerHTML='Added';</script>";
+        }
+    }
     echo "</table>";
+
+}
+else
+{
+    echo "Oops!No results!";
 }
 ?>
+        <form action="index.php" method="post">
+            <input type="submit" name="ulogout" style="background:lawngreen ;" id="submit-btn" value="logout">
+        </form>
+</div>
 </div>
 </body>
 </html>
+
+
+
